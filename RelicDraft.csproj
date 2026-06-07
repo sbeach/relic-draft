@@ -37,15 +37,15 @@
         <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="*"/>
         <!-- Generates a .pck file when building if only using simple assets. May not work on all setups. Uncomment to test. -->
         <!-- <PackageReference Include="BSchneppe.StS2.PckPacker" Version="0.1.1" PrivateAssets="All" /> -->
-        <AdditionalFiles Include="relic_draft/localization/**/*.json"/> <!-- Used by analyzer -->
+        <AdditionalFiles Include="RelicDraft/localization/**/*.json"/> <!-- Used by analyzer -->
     </ItemGroup>
 
     <ItemGroup>
-        <Compile Remove="relic_draft/**"/>
+        <Compile Remove="RelicDraft/**"/>
         <Compile Remove="materials/**"/>
         <Compile Remove="shaders/**"/>
         <Compile Remove="images/**"/>
-        <EmbeddedResource Remove="relic_draft/**"/>
+        <EmbeddedResource Remove="RelicDraft/**"/>
         <EmbeddedResource Remove="materials/**"/>
         <EmbeddedResource Remove="shaders/**"/>
         <EmbeddedResource Remove="images/**"/>
@@ -54,9 +54,9 @@
     <ItemGroup>
         <None Condition="Exists('Directory.Build.props')" Include="Directory.Build.props"/>
         <None Include=".gitignore"/>
-        <None Include="relic_draft.json"/>
+        <None Include="RelicDraft.json"/>
         <None Include="project.godot"/>
-        <None Include="relic_draft/**"/>
+        <None Include="RelicDraft/**"/>
     </ItemGroup>
 
     <Target Name="CheckDependencyPaths">

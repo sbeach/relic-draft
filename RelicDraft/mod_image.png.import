@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://lytxhhb4fmj0"
-path="res://.godot/imported/mod_image.png-143771df209168f76198430750b2a130.ctex"
+uid="uid://u3tywf46n3xd"
+path="res://.godot/imported/mod_image.png-5026a8ea05844651ba44d0721c5428c6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://relic-draft/mod_image.png"
-dest_files=["res://.godot/imported/mod_image.png-143771df209168f76198430750b2a130.ctex"]
+source_file="res://RelicDraft/mod_image.png"
+dest_files=["res://.godot/imported/mod_image.png-5026a8ea05844651ba44d0721c5428c6.ctex"]
 
 [params]
 

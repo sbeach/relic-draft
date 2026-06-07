@@ -1,0 +1,13 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1780851358
+export_presets.cfg::TextFile::-1::1780849277::0::1::::<><><>0<>0<><>::
+relic-draft.json::JSON::-1::1780849277::0::1::::<><><>0<>0<><>::
+::res://bin/::1780851208
+::res://bin/ExportRelease/::1780851208
+::res://bin/ExportRelease/net9.0/::1780851208
+::res://bin/ExportRelease/net9.0/publish/::1780851359
+relic-draft.deps.json::JSON::-1::1780851359::0::1::::<><><>0<>0<><>::
+::res://relic-draft/::1780851341
+mod_image.png::CompressedTexture2D::822817420799648083::1780849277::1780851341::1::::<><><>0<>0<>c573435959b6a51a2f375fb6edb77242<>res://.godot/imported/mod_image.png-143771df209168f76198430750b2a130.ctex::
+::res://relic-draftCode/::1780851341
+MainFile.cs::CSharpScript::3337400615234795508::1780849396::0::1::::<><><>0<>0<><>::
